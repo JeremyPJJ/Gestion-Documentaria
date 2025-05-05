@@ -8,7 +8,7 @@ db.createCollection("documents")
 
 se puede crear desde el mismo front no es necesario
 
-db.documentos.insertOne({
+db.documents.insertOne({
   
 	title:"dfergdwaefw"
 	description:"dfesgrd"
