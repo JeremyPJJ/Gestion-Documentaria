@@ -8,16 +8,6 @@ Este proyecto consiste en el desarrollo de un sistema web que permite la **gesti
 
 ---
 
-## 👤 Actores dentro del sistema
-
-- **Administrador:**  
-  Tiene acceso total al módulo. Puede subir, visualizar, buscar y eliminar documentos.
-
-- **Asistente:**  
-  Tiene acceso restringido. Solo puede subir, visualizar y buscar documentos.
-
----
-
 ## 🧩 Funciones principales del sistema
 
 ### 📤 Subida de documentos
